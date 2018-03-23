@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Prufus
+Comment=Prufus P2P Cryptocurrency
+Comment[fr]=Prufus, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Prufus, eşten eşe kriptografik sanal para birimi
+Exec=Prufus-qt %u
+Terminal=false
+Type=Application
+Icon=Prufus128
+MimeType=x-scheme-handler/Prufus;
+Categories=Office;Finance;

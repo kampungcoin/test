@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/Prufus_bg.qm</file>
+        <file alias="ca">locale/Prufus_ca.qm</file>
+        <file alias="cs">locale/Prufus_cs.qm</file>
+        <file alias="da">locale/Prufus_da.qm</file>
+        <file alias="de">locale/Prufus_de.qm</file>
+        <file alias="en">locale/Prufus_en.qm</file>
+        <file alias="en_US">locale/Prufus_en_US.qm</file>
+        <file alias="es">locale/Prufus_es.qm</file>
+        <file alias="fi">locale/Prufus_fi.qm</file>
+        <file alias="fr_FR">locale/Prufus_fr_FR.qm</file>
+        <file alias="it">locale/Prufus_it.qm</file>
+        <file alias="ja">locale/Prufus_ja.qm</file>
+        <file alias="ko_KR">locale/Prufus_ko_KR.qm</file>
+        <file alias="nl">locale/Prufus_nl.qm</file>
+        <file alias="pl">locale/Prufus_pl.qm</file>
+        <file alias="pt">locale/Prufus_pt.qm</file>
+        <file alias="pt_BR">locale/Prufus_pt_BR.qm</file>
+        <file alias="ro_RO">locale/Prufus_ro_RO.qm</file>
+        <file alias="ru">locale/Prufus_ru.qm</file>
+        <file alias="sk">locale/Prufus_sk.qm</file>
+        <file alias="sv">locale/Prufus_sv.qm</file>
+        <file alias="uk">locale/Prufus_uk.qm</file>
+        <file alias="zh_CN">locale/Prufus_zh_CN.qm</file>
+        <file alias="zh_TW">locale/Prufus_zh_TW.qm</file>
+    </qresource>
+</RCC>
